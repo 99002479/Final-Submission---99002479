@@ -7,7 +7,7 @@ INC = -Iunity\
 -Iinc\
 -Itest
 
-PROJECT_NAME = pay.out
+PROJECT_NAME = Payment.out
 
 
 $(PROJECT_NAME): $(SRC)
