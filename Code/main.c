@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "sum.h"					/* Add include file*/
-#include "test_sum.h"				/* Add include file*/
+#include "test_pay.h"				/* Add include file*/
 
 void main()
 	{
