@@ -1,5 +1,9 @@
+#include <CUnit/Basic.h>
+#include <CUnit/CUnit.h>
 #include "unity.h"
 #include "pay.h"
+
+#define PROJECT_NAME "Payment"
 
 	void setUp()
 	{	}
@@ -24,7 +28,7 @@
 	}
 
 
-	int test_main(void)
+	int main()
 	{
 	  	UNITY_BEGIN();
   	
