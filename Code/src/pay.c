@@ -1,3 +1,5 @@
+#include "pay.h"
+
 struct date{
 	   int month;
 	   int day;
