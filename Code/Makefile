@@ -1,3 +1,4 @@
+
 SRC = unity/unity.c\
 src/pay.c\
 test/test_pay.c\
@@ -7,7 +8,7 @@ INC = -Iunity\
 -Iinc\
 -Itest
 
-PROJECT_NAME = Payment.out
+PROJECT_NAME = payment.out
 
 
 $(PROJECT_NAME): $(SRC)
