@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
+
 #include "test_pay.h"				/* Add include file*/
 
 void main()
